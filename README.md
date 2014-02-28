@@ -1,10 +1,14 @@
 Pandorafier
 =======================
 
-Mess with the Pandora app. Made [on request](https://twitter.com/overlicked/status/438856807272824832). __Not available on Cydia due to the grey area of piracy this fills__. Please submit pull requests if you want any new features (or Issues if you don't know how to code)! I'd imagine a settings panel will come in the future.
+Mess with the Pandora app. Made [on request](https://twitter.com/overlicked/status/438856807272824832). __Not available on Cydia due to the grey area of piracy this fills__. Please submit pull requests if you want any new features (or [issues](https://github.com/insanj/Pandorafier/issues) if you don't know how to code)!
 
-__Confirmed working for versions:__
+Confirmed working for versions:
 - 5.2.1
+
+Pending features:
+- Settings panel
+- Remove ads (audio and picture)
 
 ---------------------------------------	
 [Creative Commons Attribution-NonCommercial 3.0 United States License](http://creativecommons.org/licenses/by-nc/3.0/us/) as of 2014:
